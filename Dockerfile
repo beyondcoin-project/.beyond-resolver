@@ -5,7 +5,7 @@
 ## To test your resolver 
 ## curl -X GET "http://xxxxxx:xx/bynd.beyond" -H "accept: application/json"
 ##       your resolver ^^     ^^ your port
-## See Docs https://docs.beyondnic.com/
+## See Docs https://docs.byndnic.com/
 
 FROM node:lts-alpine
 

@@ -249,7 +249,7 @@
   },
   "servers": [
     {
-      "url": "https://dns.beyondnic.com"
+      "url": "https://dns.byndnic.com"
     }
   ]
 }

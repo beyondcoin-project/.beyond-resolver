@@ -54,6 +54,6 @@ pm2 save
 
 ## API Documentation
 
-See the API documentation (served out of the docs folder) at https://docs.beyondnic.com/
+See the API documentation (served out of the docs folder) at https://docs.byndnic.com/
 
 ###### (c) 2020 The Beyondcoin Developers
