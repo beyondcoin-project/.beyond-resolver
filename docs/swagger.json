@@ -114,8 +114,7 @@
                   "items": {
                     "type": "string",
                     "example": [
-                      "104.31.88.244",
-                      "104.31.89.244"
+                      "52.13.212.231"
                     ]
                   }
                 }
@@ -249,7 +248,7 @@
   },
   "servers": [
     {
-      "url": "https://dns.byndnic.com"
+      "url": "http://dns.byndnic.com"
     }
   ]
 }

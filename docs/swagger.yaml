@@ -73,8 +73,7 @@ paths:
                 items:
                   type: string
                   example:
-                    - 104.31.88.244
-                    - 104.31.89.244
+                    - 52.13.212.231
         404:
           description: Resource not found
 
@@ -163,4 +162,4 @@ externalDocs:
   description: Beyondcoin GitHub Organization
   url: 'https://github.com/beyondcoin-project'
 servers:
-  - url: 'https://dns.beyondnic.com'
+  - url: 'http://dns.byndnic.com'

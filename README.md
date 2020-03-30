@@ -30,8 +30,9 @@ cd .beyond-resolver && npm install
   "httpPort": 80,
   "corsHeader": "*",
   "dnsServers": [
-    "34.239.23.246",
-    "34.233.38.119"
+    "3.81.209.88",
+    "54.208.13.17",
+    "54.175.30.22"
   ]
 }
 
